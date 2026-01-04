@@ -1,0 +1,18 @@
+ai-youtube-shorts/
+├── app/
+│   ├── api/
+│   │   └── generate/
+│   │       └── route.ts
+│   ├── page.tsx
+│   └── layout.tsx
+├── lib/
+│   └── openai.ts
+├── public/
+├── styles/
+├── .env.example
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── next.config.js
+└── README.md
